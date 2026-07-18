@@ -5,8 +5,9 @@
     "password": "",
     "type": "offline"
   },
-  "server": {ElytraGamer999.aternos.me
-    "ip": "slobtest1.aternos.me",
+  "server": {
+    "ip": "ElytraGamer999.aternos.me
+    ",
     "port": 48551,
     "version": "",
     "try-creative": false
